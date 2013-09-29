@@ -1,7 +1,4 @@
-# code-shools
-
-## catalog
-
+# code-schools
 
 ## purpose
 Code schools are sprouting up everywhere, and it's no wonder.
@@ -25,6 +22,10 @@ is important.
 
 A neat thing to do would be to help lower the barrier to creating your own school. I would love to see an organization
 of infrastructure to support a self replicating code school.
+
+
+## catalog
+
 
 ### not for profit schools
 * http://www.girlswhocode.com/
