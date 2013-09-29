@@ -29,6 +29,8 @@ of infrastructure to support a self replicating code school.
 
 ### not for profit schools
 * http://www.girlswhocode.com/
+
+### no cost for profit
 * https://www.hackerschool.com/
 
 ### for profit schools
